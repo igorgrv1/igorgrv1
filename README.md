@@ -1,61 +1,82 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">
+  Hi, I'm Igor 👋
+</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Igor.<br>
-        Currently learning... well, everything!<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/igor-gomes-romero-vilela-4724151a7/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+  <b>Tech Lead @ IBM | Software Engineer | Salesforce Developer | AI Student</b><br><br>
+  <i>
+    Building scalable systems, leading technical decisions, and exploring AI-driven solutions.<br>
+    Experienced in distributed architectures, cloud environments, and modern application design.<br>
+  </i><br>
+  <a href="https://www.linkedin.com/in/igor-gomes-romero-vilela-4724151a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
 </p>
 
-### Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/igorgrv)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/igorgrv)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/igorgrv)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/igorgrv)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+---
 
+### 🚀 About Me
+- 💼 Tech Lead with experience leading complex and critical systems
+- 🏗️ Strong focus on architecture, scalability, and modernization
+- ☁️ Hands-on with cloud platforms and distributed systems
+- 🤖 Currently pursuing postgraduate studies in Artificial Intelligence
+- ⚡ Salesforce Developer (Apex & LWC)
 
-### Technologies & Frameworks
-[![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/igorgrv)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/igorgrv)
-[![redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/igorgrv)
-[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/igorgrv)
-[![Vue](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)](https://github.com/igorgrv)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
+---
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/igorgrv)
-[![macOS](https://img.shields.io/badge/MAC_OS-black?style=for-the-badge&logo=macOS)](https://github.com/igorgrv)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+### 🧠 What I Do
+- Lead technical decisions and guide development teams
+- Design system architecture with solution architects
+- Drive cloud migration and modernization initiatives
+- Work with distributed systems (Kafka, MQ)
+- Migrate legacy applications to modern stacks (Java + Spring Boot)
 
-### CI/CD
-[![travis ci](https://img.shields.io/badge/travis_CI-black?style=for-the-badge&logo=travisci)](https://github.com/igorgrv)
-[![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/igorgrv)
-[![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/igorgrv)
+---
 
-### Products
-[![ibmmq](https://img.shields.io/badge/ibm_mq-black?style=for-the-badge&logo=ibm)](https://github.com/igorgrv)
-[![websphere](https://img.shields.io/badge/Websphere_Liberty-black?style=for-the-badge&logo=ibm)](https://github.com/igorgrv)
-[![ibmcloud](https://img.shields.io/badge/IBM_CLOUD-black?style=for-the-badge&logo=ibmcloud)](https://github.com/igorgrv)
-[![figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/igorgrv)
+### 🤖 AI Journey
+- Machine Learning fundamentals
+- Data modeling & analysis
+- Exploring real-world AI applications
 
+---
 
+### 💻 Core Stack
+
+#### Backend
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/spring_boot-black?style=for-the-badge&logo=spring)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+
+#### Frontend
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)
+![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)
+
+#### Salesforce
+![Salesforce](https://img.shields.io/badge/salesforce-black?style=for-the-badge&logo=salesforce)
+![Apex](https://img.shields.io/badge/apex-black?style=for-the-badge)
+![LWC](https://img.shields.io/badge/lightning_web_components-black?style=for-the-badge)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
+![IBM Cloud](https://img.shields.io/badge/ibm_cloud-black?style=for-the-badge&logo=ibmcloud)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)
+
+---
+
+### ⚙️ Distributed Systems & Tools
+- Kafka & IBM MQ
+- Redis / Memcached
+- DB2 & SQL / NoSQL
+- CI/CD pipelines
+- Git & Agile methodologies
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/igorgrv">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorgrv&theme=transparent" />
-  </a>
-  <a href="https://github.com/igorgrv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorgrv&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/igorgrv">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igorgrv&theme=transparent" />
-  </a>
-  <a href="https://github.com/igorgrv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgrv&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorgrv1&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorgrv1&theme=transparent" />
 </p>
